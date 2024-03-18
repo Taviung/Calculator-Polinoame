@@ -1,0 +1,12 @@
+org\example\Business_Logic\Div.class
+org\example\GUI\Parsing.class
+org\example\Business_Logic\Sum.class
+org\example\Data_Models\Monomial.class
+org\example\GUI\Screen$1.class
+org\example\Business_Logic\Mul.class
+org\example\Main.class
+org\example\GUI\Screen.class
+org\example\Business_Logic\Integrate.class
+org\example\Business_Logic\Sub.class
+org\example\Data_Models\Polynomial.class
+org\example\Business_Logic\Derivates.class
